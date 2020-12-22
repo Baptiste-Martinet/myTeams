@@ -1,0 +1,3 @@
+USAGE: ./myteams_server port
+
+        port    is the port number on which the server socket listens.

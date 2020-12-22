@@ -1,0 +1,4 @@
+USAGE: ./myteams_cli ip port
+
+        ip      is the server ip address on which the server socket listens
+        port    is the port number on which the server socket listens.
